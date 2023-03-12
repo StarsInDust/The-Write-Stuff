@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #001D06;
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+  
+
+    #container .special-main-container #center-content .innerText {
+	text-align: center;
+}
+    #center-content .innerText img {
+	padding-top: 40px;
+	
+}
