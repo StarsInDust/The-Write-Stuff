@@ -109,12 +109,12 @@ img {
 	position: relative;
 	background-repeat: no-repeat;
 	background-position: center bottom;
-	background-image: url(../Images/banner_425.png);
+	background-image: url(../Images/banner_425_small.png );
 	
   }
   
  
-    
+  
 	
 
   
@@ -309,7 +309,7 @@ nav ul li a:hover {
   #banner-img.home{
 	height: 160px;
 	position: relative;
-	background-image: url(../Images/banner_625.png);
+	background-image: url(../Images/banner_625_small.png);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-color: #001707;
