@@ -1,0 +1,3 @@
+Version 2.1
+
+Watch it, if you have not installed Visual Studio Code yet, you will not be able to open up these file. That is because your computer does not have the application installed yet that knows how to open them.
